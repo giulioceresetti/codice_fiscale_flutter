@@ -1,0 +1,3 @@
+class CityNotFoundException implements Exception {
+
+}
